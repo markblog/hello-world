@@ -18,7 +18,7 @@ eventlet==0.23.0
 flake8==3.5.0
 Flask==1.0.2
 Flask-APScheduler==1.8.0
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-Migrate==2.1.1
 Flask-RESTful==0.3.6
 Flask-Script==2.0.6
